@@ -1,0 +1,17 @@
+{
+  "name": "firebase-dynamic-link",
+  "version": "0.1.0",
+  "description": "a demo of firebas dynamic link",
+  "main": "index.js",
+  "author": "Victor Vilela <vilela_victor@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node14": "^1.0.1",
+    "@types/axios": "^0.14.0",
+    "@types/node": "^16.0.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
